@@ -11,6 +11,7 @@ I've been working on enhancing user interfaces on Android platforms. The XML sni
 User-Friendly Interface: Created a visually appealing and user-friendly interface using ConstraintLayout which offers a flexible and responsive layout design.
 Customizable Attributes: Leveraged the customizable attributes to create a unique and dynamic UI that adjusts to various screen sizes and orientations.
 Resource Optimization: Utilized drawable resources effectively for icons and background elements, ensuring an optimized and swift performance.
+
 🛠 Skills
 Languages: Java, XML
 Tools: Android Studio, Git, GitHub
