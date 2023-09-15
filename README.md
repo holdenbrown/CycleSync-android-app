@@ -16,6 +16,6 @@ Resource Optimization: Utilized drawable resources effectively for icons and bac
 Languages: Java, XML
 Tools: Android Studio, Git, GitHub
 Libraries/Frameworks: Android SDK, androidx
-🌱 Learning & Growth
 
+🌱 Learning & Growth
 I am constantly learning and adapting to new trends in Android development. I aim to further enhance my skills in UI/UX design and delve deeper into Android's rich ecosystem.
